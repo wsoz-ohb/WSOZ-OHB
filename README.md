@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/8QpQZQZ.gif" width="400"/>
-
 
   # 👋 你好，我是 [WSOZ]
 
@@ -54,15 +51,5 @@
 - 🔗 个人博客: [https://blog.csdn.net/2301_80055728?spm=1000.2115.3001.5343]
 
 
----
-
-<div align="center">
-  <img src="https://i.imgur.com/2JCGpXK.gif" width="500"/>
-
-
   ### 感谢访问我的主页！
 
-  ![Visitor Count](https://profile-counter.glitch.me/你的用户名/count.svg)
-
-  ⭐️ From [你的GitHub用户名](https://github.com/你的用户名)
-</div>
