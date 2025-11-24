@@ -1,7 +1,8 @@
 
-  # 👋 你好，我是 [WSOZ]
+  # 👋 你好，我是 WSOZ
 
-  > *"今天也要努力学习哦！"* —— 高木同学
+<img width="1024" height="1024" alt="image (2)" src="https://github.com/user-attachments/assets/0e27a741-635b-4c2a-bdd6-0e31156ea67e" />
+
 
 </div>
 
