@@ -1,8 +1,5 @@
 
-  # 👋 你好，我是 WSOZ
-
 <img width="1024" height="1024" alt="image (2)" src="https://github.com/user-attachments/assets/0e27a741-635b-4c2a-bdd6-0e31156ea67e" />
-
 
 </div>
 
