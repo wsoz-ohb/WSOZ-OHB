@@ -11,21 +11,6 @@
 - 💻 热爱硬件与软件的结合
 - 🌱 持续学习中...
 
-## 🛠️ 技术栈
-
-### 编程语言
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-### 工具与平台
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-
 ## 📫 联系方式
 
 - 📧 Email: 2641035772@qq.com
